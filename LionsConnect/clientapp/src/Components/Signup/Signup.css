@@ -1,0 +1,14 @@
+body {
+    overflow: hidden;
+}
+
+.signup {
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 10px solid #E7C225;
+    padding: 3em;
+    color: black;
+    background-color: white;
+}

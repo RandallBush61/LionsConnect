@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LionsConnect", "LionsConnect.csproj", "{1EB3C0F7-EFF9-49CA-90C5-B7E74AD5BC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB3C0F7-EFF9-49CA-90C5-B7E74AD5BC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB3C0F7-EFF9-49CA-90C5-B7E74AD5BC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB3C0F7-EFF9-49CA-90C5-B7E74AD5BC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB3C0F7-EFF9-49CA-90C5-B7E74AD5BC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8D4C3F1-6C13-49EB-A3BF-0DD6E06F9A7C}
+	EndGlobalSection
+EndGlobal

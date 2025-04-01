@@ -1,0 +1,17 @@
+.Postbox {
+    width: 700px;
+    margin: auto;
+    margin-bottom: 300px;
+    margin-top: 300px;
+
+    }
+
+    .Text{
+        color: white !important;
+    }
+
+    .button{
+        background-color: #E7C225 !important;
+        color: #006633 !important;
+    }
+    
